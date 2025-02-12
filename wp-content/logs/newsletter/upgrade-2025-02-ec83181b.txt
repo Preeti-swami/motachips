@@ -1,0 +1,77 @@
+11-02-2025 06:48:41 - INFO  - 8.7.0 - 122.5 MB/512 MB - admin > Start upgrade from 0.0.0
+11-02-2025 06:48:41 - INFO  - 8.7.0 - 122.4 MB/512 MB - admin > Array
+(
+    [`wp_newsletter_emails`] => Created table `wp_newsletter_emails`
+)
+
+11-02-2025 06:48:41 - INFO  - 8.7.0 - 122.4 MB/512 MB - admin > Array
+(
+    [`wp_newsletter_sent`] => Created table `wp_newsletter_sent`
+)
+
+11-02-2025 06:48:41 - INFO  - 8.7.0 - 122.4 MB/512 MB - admin > Array
+(
+    [`wp_newsletter`] => Created table `wp_newsletter`
+)
+
+11-02-2025 06:48:41 - INFO  - 8.7.0 - 122.4 MB/512 MB - admin > Array
+(
+    [`wp_newsletter_user_logs`] => Created table `wp_newsletter_user_logs`
+)
+
+11-02-2025 06:48:41 - INFO  - 8.7.0 - 122.4 MB/512 MB - admin > Array
+(
+    [`wp_newsletter_user_meta`] => Created table `wp_newsletter_user_meta`
+)
+
+11-02-2025 06:48:41 - INFO  - 8.7.0 - 122.4 MB/512 MB - admin > Array
+(
+    [`wp_newsletter_stats`] => Created table `wp_newsletter_stats`
+)
+
+11-02-2025 06:48:41 - INFO  - 8.7.0 - 122.4 MB/512 MB - admin > Array
+(
+    [`wp_newsletter_logs`] => Created table `wp_newsletter_logs`
+)
+
+11-02-2025 06:48:41 - INFO  - 8.7.0 - 122.4 MB/512 MB - admin > Backing up options of 0.0.0
+11-02-2025 06:48:41 - INFO  - 8.7.0 - 122.4 MB/512 MB - admin > End
+11-02-2025 08:57:52 - INFO  - 8.7.0 - 122.8 MB/512 MB - admin > Start upgrade from 8.7.0
+11-02-2025 08:57:53 - INFO  - 8.7.0 - 122.7 MB/512 MB - admin > Array
+(
+    [`wp_newsletter_emails`] => Created table `wp_newsletter_emails`
+)
+
+11-02-2025 08:57:53 - INFO  - 8.7.0 - 122.7 MB/512 MB - admin > Array
+(
+    [`wp_newsletter_sent`] => Created table `wp_newsletter_sent`
+)
+
+11-02-2025 08:57:53 - INFO  - 8.7.0 - 122.7 MB/512 MB - admin > Array
+(
+    [`wp_newsletter`] => Created table `wp_newsletter`
+)
+
+11-02-2025 08:57:53 - INFO  - 8.7.0 - 122.7 MB/512 MB - admin > Array
+(
+    [`wp_newsletter_user_logs`] => Created table `wp_newsletter_user_logs`
+)
+
+11-02-2025 08:57:53 - INFO  - 8.7.0 - 122.7 MB/512 MB - admin > Array
+(
+    [`wp_newsletter_user_meta`] => Created table `wp_newsletter_user_meta`
+)
+
+11-02-2025 08:57:53 - INFO  - 8.7.0 - 122.7 MB/512 MB - admin > Array
+(
+    [`wp_newsletter_stats`] => Created table `wp_newsletter_stats`
+)
+
+11-02-2025 08:57:53 - INFO  - 8.7.0 - 122.7 MB/512 MB - admin > Array
+(
+    [`wp_newsletter_logs`] => Created table `wp_newsletter_logs`
+    [wp_newsletter_logs.status] => Changed type of wp_newsletter_logs.status from int(11) to int
+)
+
+11-02-2025 08:57:53 - INFO  - 8.7.0 - 122.7 MB/512 MB - admin > Backing up options of 8.7.0
+11-02-2025 08:57:53 - INFO  - 8.7.0 - 122.7 MB/512 MB - admin > End
