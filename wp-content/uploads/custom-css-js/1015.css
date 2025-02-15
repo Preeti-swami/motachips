@@ -1,0 +1,158 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+/* Add your CSS code here.
+
+For example:
+.example {
+    color: red;
+}
+
+For brushing up on your CSS knowledge, check out http://www.w3schools.com/css/css_syntax.asp
+
+End of comment */ 
+
+/* shop page */
+.product-template-default header{
+	max-height: 150px;
+    height: 100px;
+    position: absolute !important;
+    display: contents;
+}
+.product-template-default .wrap-detail-page .row{
+	margin:0px;
+}
+.product-template-default .site-content{
+	padding:0px;
+}
+.product-template-default .woocommerce-product-gallery__trigger, .product-template-default .star-rating, .product-template-default .price{
+	display:none !important;
+}
+.product-template-default .site-content .container{
+	max-width:100%;
+	padding:0px;
+}
+.product-template-default .page-head{
+	background-image: url(http://localhost/motachips/wp-content/uploads/2025/02/about_bg_4.png);
+    background-position: center bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+	padding:0px !important;
+}
+.product-template-default .product-detail-wrapper{
+	background-image: url(http://localhost/motachips/wp-content/uploads/2025/02/decoration-bg-6-1.png);
+    background-position: center bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+	align-items:start !important;
+	justify-content: center;
+    padding:0px 85px 150px 85px;
+}
+.product-template-default .woocommerce-product-gallery{
+	display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+}
+.product-template-default .flex-control-nav {
+	width: 30%;
+    display: ruby;
+	overflow:visible !important;
+}
+.product-template-default .flex-control-nav .flex-active{
+	    border: 5px solid #f57919;
+}
+.product-template-default .flex-viewport{
+	width:70%;
+}
+.product-template-default .zoomImg {
+	background-color:transparent !important;
+}
+.product-template-default .flex-control-nav li img{
+	background: #ffda95;
+    padding: 10px;
+    margin: 10px !important;
+    opacity: 1 !important;
+    width: 75% !important;
+}
+.product-template-default .type-product .row{
+	background-image: url(http://localhost/motachips/wp-content/uploads/2025/02/home-best-sellers.jpg);
+    background-position: center bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+	align-items:start !important;
+	padding:0px;
+}
+.product-template-default .content-area.col-12{
+	padding:0px;
+}
+.product-template-default .type-product .row .col-12{
+	padding:0px 120px 50px 120px;
+}
+.product-template-default .related{
+	text-align:center;
+}
+.product-template-default .single_add_to_cart_button, .product-template-default .product-inner-contents .add_to_cart_button{
+	background-color: #EC3D08 !important;
+	font-family: "Montserrat", Sans-serif;
+	font-weight: 600 !important;
+    font-size: 14px !important;
+    color: #FFFFFF !important;
+}
+.product-template-default .input-text{
+	background: transparent;
+    border: 1px solid black;
+	font-family: "Montserrat", Sans-serif;
+	font-weight: 600;
+    font-size: 14px !important;
+}
+.product-template-default .page-title{
+	text-align:center;
+	padding: 120px 0px 50px 0px;
+	font-family: "Montserrat", Sans-serif;
+    font-size: 45px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #252525;
+}
+.product-template-default .woocommerce-loop-product__title{
+	font-family: "Montserrat", Sans-serif;
+    font-size: 18px !important;
+    font-weight: 700 !important;
+    text-transform: uppercase;
+    color: #252525;
+}
+.product-template-default .product_title, .product-template-default .related.products h2{
+	font-family: "Montserrat", Sans-serif;
+    font-size: 45px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #252525;
+}
+.product-template-default .related.products h2{
+	font-size: 42px;
+}
+ .product-template-default .product-inner {
+    text-align: center;
+    background: #ffe9bf;
+    border-radius: 30px;
+    padding: 30px 20px 40px 20px;
+}
+.product-template-default .amount{
+	font-size:35px !important;
+	font-family: "Montserrat", Sans-serif;
+	 color: #252525;
+	font-weight: 700 !important;
+}
+.product-template-default .woocommerce-product-details__short-description p{
+	font-size:14px !important;
+	font-family: "Montserrat", Sans-serif;
+	color: #252525;
+	font-weight: 500 !important;
+}
+@media screen and (max-width: 767px) {
+	.product-template-default .product-detail-wrapper, .product-template-default .type-product .row .col-12{
+		    padding: 0px 20px 150px 20px;
+	}
+}
+/* shop page */
+</style>
+<!-- end Simple Custom CSS and JS -->
